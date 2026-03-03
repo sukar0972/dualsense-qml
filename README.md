@@ -12,6 +12,10 @@ A Noctalia Shell plugin that displays your PS5 DualSense controller's battery le
 - **Native Noctalia Styling**: Perfectly matches your Noctalia theme using built-in color system
 - **Hot Reload Support**: Edit and test without restarting the shell
 
+## Images
+
+![Widget Image](https://i.imgur.com/bPepRzG.png)
+
 ## Installation
 
 1. **Prerequisites**:
