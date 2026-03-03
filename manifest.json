@@ -1,0 +1,12 @@
+{
+  "id": "dualsense-qml",
+  "name": "DualSense Integration",
+  "description": "Monitors battery level and configures DualSense settings.",
+  "version": "1.0.0",
+  "author": "Sukar0972",
+  "entryPoints": {
+    "main": "Main.qml",
+    "barWidget": "BarWidget.qml",
+    "panel": "Panel.qml"
+  }
+}
